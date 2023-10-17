@@ -1,12 +1,12 @@
 {
-    "name": "vivek-raghuvanshi/lumen-keycloak-guard",
-    "description": "🔑 Simple Keycloak Guard for Lumen",
+    "name": "vivek-raghuvanshi/laravel-keycloak-guard",
+    "description": "🔑 Simple Keycloak Guard for Laravel",
     "keywords": [
         "laravel",
         "lumen",
         "keycloak"
     ],
-    "homepage": "https://github.com/viveksingh7557/lumen-keycloak-guard",
+    "homepage": "https://github.com/vivek-raghuvanshi/laravel-keycloak-guard",
     "license": "MIT",
     "authors": [
         {

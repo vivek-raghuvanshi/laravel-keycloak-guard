@@ -3,7 +3,7 @@
 </p>
 
 
-# Simple Keycloak Guard for Lumen
+# Simple Keycloak Guard for Laravel
 
 This package helps you authenticate users on a Laravel API based on JWT tokens generated from **Keycloak Server**.
 
@@ -54,7 +54,7 @@ This package helps you authenticate users on a Laravel API based on JWT tokens g
 Require the package
 
 ```
-composer require vivek-raghuvanshi/lumen-keycloak-guard
+composer require vivek-raghuvanshi/laravel-keycloak-guard
 ```
 
 ### Lumen only
@@ -86,6 +86,7 @@ php artisan vendor:publish  --provider="KeycloakGuard\KeycloakGuardServiceProvid
 _Required._
 
 The Keycloak Server realm public key (string).
+
 
 > How to get realm public key? Click on "Realm Settings" > "Keys" > "Algorithm RS256" Line > "Public Key" Button
 
